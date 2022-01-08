@@ -9,7 +9,7 @@ I have moved all [defect map draw](https://github.com/jingyuan-su/defect-map-dra
 > Even in the semiconductor, it's more important for us,it can instead of engineers' manual handle in your working section or department. Such as worse or special map distinguish or previous case search.
 This project has subfolders corresponding to the languages:
 
-- Python 3.5 above
+- Python 3.7 above
 - JavaScript
 - HTML5
 
